@@ -4,6 +4,11 @@
 
 Currently helping build the awesome AI product [Fireflies.ai](https://app.fireflies.ai), the best meeting AI notetaker in the market.
 
+
+<h3>Currently learning</h3>
+
+- [ ] Golang
+
 <h3>Things I code with</h3>
 
 <p>
